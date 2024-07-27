@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "sessionSecret": "your_secret_key",
+    "discordClientID": "your_discord_client_id",
+    "discordClientSecret": "your_discord_client_secret",
+    "discordCallbackURL": "http://localhost:3000/auth/discord/callback"
+  }
+  
